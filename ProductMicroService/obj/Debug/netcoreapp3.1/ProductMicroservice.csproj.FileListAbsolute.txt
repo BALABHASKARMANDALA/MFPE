@@ -1,0 +1,139 @@
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Log4net.config
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.exe
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.deps.json
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.json
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.dev.json
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\ProductMicroservice.pdb
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\mfpe\ProductMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.csprojAssemblyReference.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfoInputs.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfo.cs
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CoreCompileInputs.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.Manifest.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.xml
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductMicroservice.styles.css
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.RazorTargetAssemblyInfo.cache
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CopyComplete
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.dll
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.pdb
+H:\mfpe\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.genruntimeconfig.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.exe
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.deps.json
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.json
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.dev.json
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.pdb
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csprojAssemblyReference.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfoInputs.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfo.cs
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.xml
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductMicroservice.styles.css
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CopyComplete
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.pdb
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.genruntimeconfig.cache
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\deepa\Desktop\New folder\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Log4net.config
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.exe
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.deps.json
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.json
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.runtimeconfig.dev.json
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\ProductMicroservice.pdb
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\log4net.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csprojAssemblyReference.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfoInputs.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfo.cs
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CoreCompileInputs.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.Manifest.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.xml
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductMicroservice.styles.css
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.RazorTargetAssemblyInfo.cache
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.csproj.CopyComplete
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.dll
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.pdb
+F:\CTS Training\MyfpeUpToDate-master\mfpeproduct-master\obj\Debug\netcoreapp3.1\ProductMicroservice.genruntimeconfig.cache

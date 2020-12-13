@@ -1,0 +1,218 @@
+INFO  01:07:06 Application started. Press Ctrl+C to shut down.
+INFO  01:07:06 Application started. Press Ctrl+C to shut down.
+INFO  01:07:06 Hosting environment: Development
+INFO  01:07:06 Hosting environment: Development
+INFO  01:07:06 Content root path: H:\mfpe\ProductMicroservice
+INFO  01:07:06 Content root path: H:\mfpe\ProductMicroservice
+ERROR 01:11:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'ProductMicroservice.Provider.IProvider' while attempting to activate 'ProductMicroservice.Controllers.ProductController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:11:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'ProductMicroservice.Provider.IProvider' while attempting to activate 'ProductMicroservice.Controllers.ProductController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:12:55 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'ProductMicroservice.Provider.IProvider' while attempting to activate 'ProductMicroservice.Controllers.ProductController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:12:55 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'ProductMicroservice.Provider.IProvider' while attempting to activate 'ProductMicroservice.Controllers.ProductController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:18:59 Application started. Press Ctrl+C to shut down.
+INFO  01:18:59 Application started. Press Ctrl+C to shut down.
+INFO  01:18:59 Hosting environment: Development
+INFO  01:18:59 Hosting environment: Development
+INFO  01:18:59 Content root path: H:\mfpe\ProductMicroservice
+INFO  01:18:59 Content root path: H:\mfpe\ProductMicroservice
+INFO  01:22:25  Http GET in controller is accesed
+INFO  01:22:25 Product details have been successfully recieved.
+INFO  01:22:25 method execution in controller completed
+INFO  01:22:25 product with id 1 is ProductMicroservice.Models.Product
+INFO  02:04:42 Application started. Press Ctrl+C to shut down.
+INFO  02:04:42 Application started. Press Ctrl+C to shut down.
+INFO  02:04:42 Hosting environment: Development
+INFO  02:04:42 Hosting environment: Development
+INFO  02:04:42 Content root path: H:\mfpe\ProductMicroservice
+INFO  02:04:42 Content root path: H:\mfpe\ProductMicroservice
+INFO  02:35:02 Application started. Press Ctrl+C to shut down.
+INFO  02:35:02 Application started. Press Ctrl+C to shut down.
+INFO  02:35:02 Hosting environment: Development
+INFO  02:35:02 Hosting environment: Development
+INFO  02:35:02 Content root path: H:\mfpe\ProductMicroservice
+INFO  02:35:02 Content root path: H:\mfpe\ProductMicroservice
+INFO  02:35:20  Http GET in controller is accesed
+INFO  02:35:20 Product details have been successfully recieved.
+INFO  02:35:20 method execution in controller completed
+INFO  02:35:20 product with id 1 is ProductMicroservice.Models.Product
+INFO  02:56:22 Application started. Press Ctrl+C to shut down.
+INFO  02:56:22 Application started. Press Ctrl+C to shut down.
+INFO  02:56:22 Hosting environment: Development
+INFO  02:56:22 Hosting environment: Development
+INFO  02:56:23 Content root path: H:\mfpe\ProductMicroservice
+INFO  02:56:23 Content root path: H:\mfpe\ProductMicroservice
+INFO  03:40:30 Application started. Press Ctrl+C to shut down.
+INFO  03:40:30 Application started. Press Ctrl+C to shut down.
+INFO  03:40:30 Hosting environment: Development
+INFO  03:40:30 Hosting environment: Development
+INFO  03:40:30 Content root path: H:\mfpe\ProductMicroservice
+INFO  03:40:30 Content root path: H:\mfpe\ProductMicroservice
+INFO  04:05:00 Application started. Press Ctrl+C to shut down.
+INFO  04:05:00 Application started. Press Ctrl+C to shut down.
+INFO  04:05:00 Hosting environment: Development
+INFO  04:05:00 Hosting environment: Development
+INFO  04:05:00 Content root path: H:\mfpe\ProductMicroservice
+INFO  04:05:00 Content root path: H:\mfpe\ProductMicroservice
+INFO  04:05:29  Http GET in controller is accesed
+INFO  04:05:29 Product details have been successfully recieved.
+INFO  04:05:29 method execution in controller completed
+INFO  04:05:29 product with id Mouse is ProductMicroservice.Models.Product
+INFO  06:18:06 Application started. Press Ctrl+C to shut down.
+INFO  06:18:06 Application started. Press Ctrl+C to shut down.
+INFO  06:18:06 Hosting environment: Development
+INFO  06:18:06 Hosting environment: Development
+INFO  06:18:06 Content root path: H:\mfpe\ProductMicroservice
+INFO  06:18:06 Content root path: H:\mfpe\ProductMicroservice
+INFO  06:18:31  Http GET in controller is accesed
+INFO  06:18:31 Product details have been successfully recieved.
+INFO  06:18:31 method execution in controller completed
+INFO  06:18:31 product with id 1 is ProductMicroservice.Models.Product
+INFO  06:18:49  Http GET in controller is accesed
+INFO  06:18:49 Product details have been successfully recieved.
+INFO  06:18:49 method execution in controller completed
+INFO  06:18:49 product with id Mouse is ProductMicroservice.Models.Product
+INFO  06:19:23 Rating has been successfully assigned to the product.
+INFO  06:19:23 Getting product details for product id 2
+INFO  06:19:23 method execution in controller completed
+INFO  06:19:23 rating 5 for the product with id=2 is assigned
+INFO  07:34:10 Application started. Press Ctrl+C to shut down.
+INFO  07:34:10 Application started. Press Ctrl+C to shut down.
+INFO  07:34:10 Hosting environment: Development
+INFO  07:34:10 Hosting environment: Development
+INFO  07:34:10 Content root path: H:\mfpe\ProductMicroservice
+INFO  07:34:10 Content root path: H:\mfpe\ProductMicroservice
+INFO  07:34:45  Http GET in controller is accesed
+INFO  07:34:45 Product details have been successfully recieved.
+INFO  07:34:45 method execution in controller completed
+INFO  07:34:45 product with id 1 is ProductMicroservice.Models.Product
+INFO  07:35:01  Http GET in controller is accesed
+INFO  07:35:01 Product details have been successfully recieved.
+INFO  07:35:01 method execution in controller completed
+INFO  07:35:01 product with id Mouse is ProductMicroservice.Models.Product
+INFO  07:35:40 Rating has been successfully assigned to the product.
+INFO  07:35:40 Getting product details for product id 2
+INFO  07:35:40 method execution in controller completed
+INFO  07:35:40 rating 5 for the product with id=2 is assigned
+INFO  07:36:03 Rating has been successfully assigned to the product.
+INFO  07:36:03 Getting product details for product id 5
+INFO  07:46:12 Application started. Press Ctrl+C to shut down.
+INFO  07:46:12 Application started. Press Ctrl+C to shut down.
+INFO  07:46:12 Hosting environment: Development
+INFO  07:46:12 Hosting environment: Development
+INFO  07:46:12 Content root path: H:\mfpe\ProductMicroservice
+INFO  07:46:12 Content root path: H:\mfpe\ProductMicroservice
+INFO  07:46:32  Http GET in controller is accesed
+INFO  07:46:32 Product details have been successfully recieved.
+INFO  07:46:32 Customer details  has been successfully retrieved
+INFO  07:46:32 method execution in controller completed
+INFO  07:46:32 product with id 1 is ProductMicroservice.Models.Product
+INFO  07:46:45  Http GET in controller is accesed
+INFO  07:46:45 Product details have been successfully recieved.
+INFO  07:46:45 Customer details  has been successfully retrieved
+INFO  07:46:45 method execution in controller completed
+INFO  07:46:45 product with id Mouse is ProductMicroservice.Models.Product
+INFO  07:47:10 Rating has been successfully assigned to the product.
+INFO  07:47:10 Getting product details for product id 2
+INFO  07:47:10 method execution in controller completed
+INFO  07:47:10 rating 2 for the product with id=2 is assigned
+INFO  07:47:24 Rating has been successfully assigned to the product.
+INFO  07:47:24 Getting product details for product id 4
+INFO  11:03:53 Application started. Press Ctrl+C to shut down.
+INFO  11:03:53 Application started. Press Ctrl+C to shut down.
+INFO  11:03:53 Hosting environment: Development
+INFO  11:03:53 Hosting environment: Development
+INFO  11:03:53 Content root path: H:\mfpe\ProductMicroservice
+INFO  11:03:53 Content root path: H:\mfpe\ProductMicroservice
+INFO  11:04:24  Http GET in controller is accesed
+INFO  11:04:24 Product details have been successfully recieved.
+INFO  11:04:24 Product details  have been successfully retrieved
+INFO  11:04:24 method execution in controller completed
+INFO  11:04:24 product with id 1 is ProductMicroservice.Models.Product
+INFO  11:04:38  Http GET in controller is accesed
+INFO  11:04:38 Product details have been successfully recieved.
+INFO  11:04:38 Product details  have been successfully retrieved
+INFO  11:04:38 method execution in controller completed
+INFO  11:04:38 product with id Mouse is ProductMicroservice.Models.Product
+INFO  11:04:59 Rating has been successfully assigned to the product.
+INFO  11:04:59 Getting product details for product id 2
+INFO  11:04:59 method execution in controller completed
+INFO  11:04:59 rating 3 for the product with id=2 is assigned
+INFO  11:38:07 Application started. Press Ctrl+C to shut down.
+INFO  11:38:07 Application started. Press Ctrl+C to shut down.
+INFO  11:38:07 Hosting environment: Development
+INFO  11:38:07 Hosting environment: Development
+INFO  11:38:07 Content root path: H:\mfpe\ProductMicroservice
+INFO  11:38:07 Content root path: H:\mfpe\ProductMicroservice
+INFO  11:38:27  Http GET in controller is accesed
+INFO  11:38:27 Product details have been successfully recieved.
+INFO  11:38:27 Product details  have been successfully retrieved
+INFO  11:38:28 method execution in controller completed
+INFO  11:38:28 product with id 1 is ProductMicroservice.Models.ProductDto
+INFO  11:38:41  Http GET in controller is accesed
+INFO  11:38:41 Product details have been successfully recieved.
+INFO  11:38:41 Product details  have been successfully retrieved
+INFO  11:38:41 method execution in controller completed
+INFO  11:38:41 product with id Mouse is ProductMicroservice.Models.ProductDto
+INFO  11:38:59 Rating has been successfully assigned to the product.
+INFO  11:38:59 Getting product details for product id 2
+INFO  11:38:59 method execution in controller completed
+INFO  11:38:59 rating 3 for the product with id=2 is assigned
